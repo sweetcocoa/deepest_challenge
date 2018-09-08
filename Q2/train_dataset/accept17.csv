@@ -1,0 +1,199 @@
+,title,authors,len_authors,len_title,num_words,num_authors,gender,prob,count,None,female,male,accepted
+0,Making Neural Programming Architectures Generalize via Recursion,"Jonathon Cai, Richard Shin, Dawn Song",37,64,7,3,male,1,145.0,0,0,1,1
+1,End-to-end Optimized Image Compression,"Johannes Ballé, Valero Laparra, Eero P. Simoncelli",50,38,4,3,male,1,198.0,0,0,1,1
+2,Optimization as a Model for Few-Shot Learning,"Sachin Ravi, Hugo Larochelle",28,45,7,2,male,1,201.0,0,0,1,1
+3,Learning End-to-End Goal-Oriented Dialog,"Antoine Bordes, Y-Lan Boureau, Jason Weston",43,40,4,3,male,1,411.0,0,0,1,1
+4,Towards Principled Methods for Training Generative Adversarial Networks,"Martin Arjovsky, Leon Bottou",28,71,8,2,male,1,3568.0,0,0,1,1
+5,Reinforcement Learning with Unsupervised Auxiliary Tasks,"Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver, Koray Kavukcuoglu",115,56,6,7,male,0.98,1140.0,0,0,1,1
+6,Multi-Agent Cooperation and the Emergence of (Natural) Language,"Angeliki Lazaridou, Alexander Peysakhovich, Marco Baroni",56,63,8,3,female,1,11.0,0,1,0,1
+7,Understanding deep learning requires rethinking generalization,"Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals",71,62,6,5,None,0.0,0.0,1,0,0,1
+8,Neural Architecture Search with Reinforcement Learning,"Barret Zoph, Quoc Le",20,54,6,2,male,1,3.0,0,0,1,1
+9,Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic,"Shixiang Gu, Timothy Lillicrap, Zoubin Ghahramani, Richard E. Turner, Sergey Levine",83,66,8,5,None,0.0,0.0,1,0,0,1
+10,Learning to Act by Predicting the Future,"Alexey Dosovitskiy, Vladlen Koltun",34,40,7,2,male,1,45.0,0,0,1,1
+11,On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima,"Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang",98,78,11,5,male,1,20.0,0,0,1,1
+12,Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data,"Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal Talwar",78,79,10,5,male,1,1953.0,0,0,1,1
+13,Amortised MAP Inference for Image Super-resolution,"Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár",76,50,6,5,male,0.99,89.0,0,0,1,1
+14,Learning Graphical State Transitions,Daniel D. Johnson,17,36,4,1,male,1,8180.0,0,0,1,1
+15,Maximum Entropy Flow Networks,"Gabriel Loaiza-Ganem *, Yuanjun Gao *, John P. Cunningham",57,29,4,3,male,0.99,1674.0,0,0,1,1
+16,Topology and Geometry of Half-Rectified Network Optimization,"C. Daniel Freeman, Joan Bruna",29,60,7,2,male,1,1.0,0,0,1,1
+17,Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer,"Sergey Zagoruyko, Nikos Komodakis",33,117,15,2,male,0.99,117.0,0,0,1,1
+18,Learning Visual Servoing with Deep Features and Fitted Q-Iteration,"Alex X. Lee, Sergey Levine, Pieter Abbeel",41,66,9,3,male,0.87,5856.0,0,0,1,1
+19,Stochastic Neural Networks for Hierarchical Reinforcement Learning,"Carlos Florensa, Yan Duan, Pieter Abbeel",40,66,7,3,male,1,5149.0,0,0,1,1
+20,Nonparametric Neural Networks,"George Philipp, Jaime G. Carbonell",34,29,3,2,male,0.99,2098.0,0,0,1,1
+21,Distributed Second-Order Optimization using Kronecker-Factored Approximations,"Jimmy Ba, Roger Grosse, James Martens",37,77,6,3,male,1,1416.0,0,0,1,1
+22,Pruning Filters for Efficient ConvNets,"Hao Li, Asim Kadav, Igor Durdanovic, Hanan Samet, Hans Peter Graf",65,38,5,5,male,0.93,27.0,0,0,1,1
+23,Learning to Generate Samples from Noise through Infusion Training,"Florian Bordes, Sina Honari, Pascal Vincent",43,65,9,3,male,1,489.0,0,0,1,1
+24,FILTER SHAPING FOR CONVOLUTIONAL NEURAL NETWORKS,"Xingyi Li, Fuxin Li, Xiaoli Fern, Raviv Raich",45,48,6,4,male,1,1.0,0,0,1,1
+25,Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes,"Mengye Ren, Renjie Liao, Raquel Urtasun, Fabian H. Sinz, Richard S. Zemel",73,82,9,5,None,0.0,0.0,1,0,0,1
+26,Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses,"Eleanor Batty, Josh Merel, Nora Brackbill, Alexander Heitman, Alexander Sher, Alan Litke, E.J. Chichilnisky, Liam Paninski",122,78,10,8,female,1,263.0,0,1,0,1
+27,Improving Generative Adversarial Networks with Denoising Feature Matching,"David Warde-Farley, Yoshua Bengio",33,73,8,2,male,1,12593.0,0,0,1,1
+28,Efficient Vector Representation for Documents through Corruption,Minmin Chen,11,64,7,1,female,1,6.0,0,1,0,1
+29,Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning,"Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine",70,80,10,5,male,1,308.0,0,0,1,1
+30,Transfer of View-manifold Learning to Similarity Perception of Novel Objects,"Xingyu Lin, Hao Wang, Zhihao Li, Yimeng Zhang, Alan Yuille, Tai Sing Lee",72,76,10,6,male,1,1.0,0,0,1,1
+31,What does it take to generate natural textures?,"Ivan Ustyuzhaninov *, Wieland Brendel *, Leon Gatys, Matthias Bethge",68,47,8,4,male,1,1905.0,0,0,1,1
+32,Emergence of foveal image sampling from learning to attend in visual scenes,"Brian Cheung, Eric Weiss, Bruno Olshausen",41,75,12,3,male,1,4600.0,0,0,1,1
+33,An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural Population Infomax,"Wentao Huang, Kechen Zhang",26,106,13,2,male,1,1.0,0,0,1,1
+34,PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications,"Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma",58,103,12,4,male,0.99,2949.0,0,0,1,1
+35,Mode Regularized Generative Adversarial Networks,"Tong Che, Yanran Li, Athul Jacob, Yoshua Bengio, Wenjie Li",58,48,5,5,male,0.68,44.0,0,0,1,1
+36,Highway and Residual Networks learn Unrolled Iterative Estimation,"Klaus Greff, Rupesh K. Srivastava, Jürgen Schmidhuber",53,65,8,3,male,0.98,177.0,0,0,1,1
+37,Improving Neural Language Models with a Continuous Cache,"Edouard Grave, Armand Joulin, Nicolas Usunier",45,56,8,3,male,0.97,60.0,0,0,1,1
+38,Unsupervised Cross-Domain Image Generation,"Yaniv Taigman, Adam Polyak, Lior Wolf",37,42,4,3,male,1,37.0,0,0,1,1
+39,Third Person Imitation Learning,"Bradly C Stadie, Pieter Abbeel, Ilya Sutskever",46,31,4,3,male,1,9.0,0,0,1,1
+40,Variational Recurrent Adversarial Deep Domain Adaptation,"Sanjay Purushotham, Wilka Carvalho, Tanachat Nilanon, Yan Liu",61,56,6,4,male,1,212.0,0,0,1,1
+41,Program Synthesis for Character Level Language Modeling,"Pavol Bielik, Veselin Raychev, Martin Vechev",44,55,7,3,male,1,28.0,0,0,1,1
+42,Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement,"Nicolas Usunier, Gabriel Synnaeve, Zeming Lin, Soumith Chintala",63,82,9,4,male,1,1953.0,0,0,1,1
+43,Soft Weight-Sharing for Neural Network Compression,"Karen Ullrich, Edward Meeds, Max Welling",40,50,6,3,female,1,5462.0,0,1,0,1
+44,Neural Program Lattices,"Chengtao Li, Daniel Tarlow, Alexander L. Gaunt, Marc Brockschmidt, Nate Kushman",79,23,3,5,None,0.0,0.0,1,0,0,1
+45,Tracking the World State with Recurrent Entity Networks,"Mikael Henaff, Jason Weston, Arthur Szlam, Antoine Bordes, Yann LeCun",69,55,8,5,male,1,314.0,0,0,1,1
+46,Steerable CNNs,"Taco S. Cohen, Max Welling",26,14,2,2,male,0.8,5.0,0,0,1,1
+47,"Learning to Query, Reason, and Answer Questions On Ambiguous Texts","Xiaoxiao Guo, Tim Klinger, Clemens Rosenbaum, Joseph P. Bigus, Murray Campbell, Ban Kawas, Kartik Talamadupula, Gerry Tesauro, Satinder Singh",141,66,10,9,male,0.67,3.0,0,0,1,1
+48,Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning,"William Lotter, Gabriel Kreiman, David Cox",42,78,10,3,male,1,2626.0,0,0,1,1
+49,Diet Networks: Thin Parameters for Fat Genomics,"Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Marie-Pierre Dubé, Julie G. Hussin, Yoshua Bengio",168,47,7,10,female,1,1476.0,0,1,0,1
+50,Deep Biaffine Attention for Neural Dependency Parsing,"Timothy Dozat, Christopher D. Manning",37,53,7,2,male,1,809.0,0,0,1,1
+51,PixelVAE: A Latent Variable Model for Natural Images,"Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville",110,52,8,7,male,1,19.0,0,0,1,1
+52,"Snapshot Ensembles: Train 1, Get M for Free","Gao Huang, Yixuan Li, Geoff Pleiss, Zhuang Liu, John E. Hopcroft, Kilian Q. Weinberger",86,43,8,6,female,0.57,14.0,0,1,0,1
+53,Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning,"Yuxin Wu, Yuandong Tian",23,82,10,2,female,1,12.0,0,1,0,1
+54,Neuro-Symbolic Program Synthesis,"Emilio Parisotto, Abdel-rahman Mohamed, Rishabh Singh, Lihong Li, Dengyong Zhou, Pushmeet Kohli",95,32,3,6,male,0.99,370.0,0,0,1,1
+55,Decomposing Motion and Content for Natural Video Sequence Prediction,"Ruben Villegas, Jimei Yang, Seunghoon Hong, Xunyu Lin, Honglak Lee",66,68,9,5,male,0.97,471.0,0,0,1,1
+56,Towards a Neural Statistician,"Harrison Edwards, Amos Storkey",30,29,4,2,male,1,94.0,0,0,1,1
+57,Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy,"Dougal J. Sutherland, Hsiao-Yu Tung, Heiko Strathmann, Soumyajit De, Aaditya Ramdas, Alex Smola, Arthur Gretton",111,76,10,7,male,1,12.0,0,0,1,1
+58,Generalizing Skills with Semi-Supervised Reinforcement Learning,"Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine",64,63,6,5,female,1,905.0,0,1,0,1
+59,Learning Curve Prediction with Bayesian Neural Networks,"Aaron Klein, Stefan Falkner, Jost Tobias Springenberg, Frank Hutter",67,55,7,4,male,1,2280.0,0,0,1,1
+60,Learning to Optimize,"Ke Li, Jitendra Malik",21,20,3,2,male,0.56,34.0,0,0,1,1
+61,A Compare-Aggregate Model for Matching Text Sequences,"Shuohang Wang, Jing Jiang",25,53,7,2,None,0.0,0.0,1,0,0,1
+62,Data Noising as Smoothing in Neural Network Language Models,"Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andrew Y. Ng",86,59,9,7,male,1,1.0,0,0,1,1
+63,Training Compressed Fully-Connected Networks with a Density-Diversity Penalty,"Shengjie Wang, Haoran Cai, Jeff Bilmes, William Noble",53,77,8,4,None,0.0,0.0,1,0,0,1
+64,Autoencoding Variational Inference For Topic Models,"Akash Srivastava, Charles Sutton",32,51,6,2,male,1,84.0,0,0,1,1
+65,Optimal Binary Autoencoding with Pairwise Correlations,Akshay Balsubramani,19,54,6,1,male,1,92.0,0,0,1,1
+66,On the Quantitative Analysis of Decoder-Based Generative Models,"Yuhuai Wu, Yuri Burda, Ruslan Salakhutdinov, Roger Grosse",57,63,8,4,None,0.0,0.0,1,0,0,1
+67,Trained Ternary Quantization,"Chenzhuo Zhu, Song Han, Huizi Mao, William J. Dally",51,28,3,4,None,0.0,0.0,1,0,0,1
+68,DSD: Dense-Sparse-Dense Training for Deep Neural Networks,"Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally",159,57,7,12,male,0.64,58.0,0,0,1,1
+69,A Compositional Object-Based Approach to Learning Physical Dynamics,"Michael Chang, Tomer Ullman, Antonio Torralba, Joshua Tenenbaum",63,67,8,4,male,1,11094.0,0,0,1,1
+70,Learning to Remember Rare Events,"Lukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio",50,32,5,4,male,1,55.0,0,0,1,1
+71,Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks,"Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen",51,75,9,3,None,0.0,0.0,1,0,0,1
+72,Words or Characters? Fine-grained Gating for Reading Comprehension,"Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov",87,66,8,6,None,0.0,0.0,1,0,0,1
+73,A Simple but Tough-to-Beat Baseline for Sentence Embeddings,"Sanjeev Arora, Yingyu Liang, Tengyu Ma",38,59,8,3,male,1,125.0,0,0,1,1
+74,Capacity and Trainability in Recurrent Neural Networks,"Jasmine Collins, Jascha Sohl-Dickstein, David Sussillo",54,54,7,3,female,0.99,714.0,0,1,0,1
+75,Learning to Perform Physics Experiments via Deep Reinforcement Learning,"Misha Denil, Pulkit Agrawal, Tejas D Kulkarni, Tom Erez, Peter Battaglia, Nando de Freitas",90,71,9,6,female,0.7,53.0,0,1,0,1
+76,Improving Policy Gradient by Exploring Under-appreciated Rewards,"Ofir Nachum, Mohammad Norouzi, Dale Schuurmans",46,64,7,3,male,0.86,28.0,0,0,1,1
+77,Deep Learning with Dynamic Computation Graphs,"Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig",65,45,6,4,male,0.98,60.0,0,0,1,1
+78,Calibrating Energy-based Generative Adversarial Networks,"Zihang Dai, Amjad Almahairi, Philip Bachman, Eduard Hovy, Aaron Courville",73,56,5,5,None,0.0,0.0,1,0,0,1
+79,Pruning Convolutional Neural Networks for Resource Efficient Inference,"Pavlo Molchanov, Stephen Tyree, Tero Karras, Timo Aila, Jan Kautz",65,70,8,5,male,1,2.0,0,0,1,1
+80,Query-Reduction Networks for Question Answering,"Minjoon Seo, Sewon Min, Ali Farhadi, Hannaneh Hajishirzi",56,47,5,4,None,0.0,0.0,1,0,0,1
+81,Designing Neural Network Architectures using Reinforcement Learning,"Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar",54,67,7,4,male,0.94,16.0,0,0,1,1
+82,Machine Comprehension Using Match-LSTM and Answer Pointer,"Shuohang Wang, Jing Jiang",25,57,7,2,None,0.0,0.0,1,0,0,1
+83,DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning,"Tian Zhao, Xiao Bing Huang, Yu Cao",34,71,8,3,male,0.67,24.0,0,0,1,1
+84,Bidirectional Attention Flow for Machine Comprehension,"Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hannaneh Hajishirzi",65,54,6,4,None,0.0,0.0,1,0,0,1
+85,Incorporating long-range consistency in CNN-based texture generation,"Guillaume Berger, Roland Memisevic",34,68,7,2,male,1,779.0,0,0,1,1
+86,Dynamic Coattention Networks For Question Answering,"Caiming Xiong, Victor Zhong, Richard Socher",43,51,6,3,None,0.0,0.0,1,0,0,1
+87,SampleRNN: An Unconditional End-to-End Neural Audio Generation Model,"Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Sotelo, Aaron Courville, Yoshua Bengio",119,68,8,8,male,0.86,7.0,0,0,1,1
+88,Metacontrol for Adaptive Imagination-Based Optimization,"Jessica B. Hamrick, Andrew J. Ballard, Razvan Pascanu, Oriol Vinyals, Nicolas Heess, Peter W. Battaglia",103,55,5,6,female,1,6696.0,0,1,0,1
+89,Exploring Sparsity in Recurrent Neural Networks,"Sharan Narang, Greg Diamos, Shubho Sengupta, Erich Elsen",56,47,6,4,female,0.56,16.0,0,1,0,1
+90,Lossy Image Compression with Compressive Autoencoders,"Lucas Theis, Wenzhe Shi, Andrew Cunningham, Ferenc Huszár",57,53,6,4,male,1,1003.0,0,0,1,1
+91,Structured Attention Networks,"Yoon Kim, Carl Denton, Luong Hoang, Alexander M. Rush",53,29,3,4,female,0.5,14.0,0,1,0,1
+92,Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations,"David Krueger, Tegan Maharaj, Janos Kramar, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh Goyal, Yoshua Bengio, Aaron Courville, Christopher Pal",158,68,8,10,male,1,12593.0,0,0,1,1
+93,Deep Probabilistic Programming,"Dustin Tran, Matthew D. Hoffman, Rif A. Saurous, Eugene Brevdo, Kevin Murphy, David M. Blei",91,30,3,6,male,1,529.0,0,0,1,1
+94,LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation,"Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh",53,78,9,4,female,0.5,2.0,0,1,0,1
+95,Variational Lossy Autoencoder,"Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel",116,29,3,8,male,0.71,17.0,0,0,1,1
+96,A recurrent neural network without chaos,"Thomas Laurent, James von Brecht",32,40,6,2,male,1,3753.0,0,0,1,1
+97,Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer,"Noam Shazeer, *Azalia Mirhoseini, *Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean",101,79,8,7,male,0.8,41.0,0,0,1,1
+98,Tree-structured decoding with doubly-recurrent neural networks,"David Alvarez-Melis, Tommi S. Jaakkola",38,62,6,2,male,1,12593.0,0,0,1,1
+99,Introspection:Accelerating Neural Network Training By Learning Weight Evolution,"Abhishek Sinha, Aahitagni Mukherjee, Mausoom Sarkar, Balaji Krishnamurthy",73,79,8,4,male,1,308.0,0,0,1,1
+100,Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization,"Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar",78,80,7,5,female,1,32.0,0,1,0,1
+101,Lie-Access Neural Turing Machines,"Greg Yang, Alexander Rush",25,33,4,2,male,1,1852.0,0,0,1,1
+102,Quasi-Recurrent Neural Networks,"James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher",61,31,3,4,male,0.99,6359.0,0,0,1,1
+103,Recurrent Environment Simulators,"Silvia Chiappa, Sébastien Racaniere, Daan Wierstra, Shakir Mohamed",66,32,3,4,female,1,1766.0,0,1,0,1
+104,EPOpt: Learning Robust Neural Network Policies Using Model Ensembles,"Aravind Rajeswaran, Sarvjeet Ghotra, Balaraman Ravindran, Sergey Levine",71,68,9,4,male,1,29.0,0,0,1,1
+105,"Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain","Janarthanan Rajendran, Aravind Lakshminarayanan, Mitesh M. Khapra, Prasanna P, Balaraman Ravindran",98,118,17,5,male,1,2.0,0,0,1,1
+106,Multi-view Recurrent Neural Acoustic Word Embeddings,"Wanjia He, Weiran Wang, Karen Livescu",37,52,6,3,None,0.0,0.0,1,0,0,1
+107,Learning Features of Music From Scratch,"John Thickstun, Zaid Harchaoui, Sham Kakade",43,39,6,3,male,0.99,9931.0,0,0,1,1
+108,A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks,"Dan Hendrycks, Kevin Gimpel",27,90,11,2,male,0.98,3240.0,0,0,1,1
+109,Learning to superoptimize programs,"Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohli",77,34,4,5,male,0.95,220.0,0,0,1,1
+110,Trusting SVM for Piecewise Linear CNNs,"Leonard Berrada, Andrew Zisserman, M. Pawan Kumar",49,38,6,3,male,1,201.0,0,0,1,1
+111,Sigma Delta Quantized Networks,"Peter O'Connor, Max Welling",27,30,4,2,male,1,4373.0,0,0,1,1
+112,A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING,"Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, Yoshua Bengio",98,46,5,7,None,0.0,0.0,1,0,0,1
+113,Regularizing CNNs with Locally Constrained Decorrelations,"Pau Rodríguez, Jordi Gonzàlez, Guillem Cucurull, Josep M. Gonfaus, Xavier Roca",78,57,6,5,female,0.65,208.0,0,1,0,1
+114,The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables,"Chris J. Maddison, Andriy Mnih, Yee Whye Teh",44,79,10,3,male,0.93,8631.0,0,0,1,1
+115,Unrolled Generative Adversarial Networks,"Luke Metz, Ben Poole, David Pfau, Jascha Sohl-Dickstein",55,40,4,4,male,1,1408.0,0,0,1,1
+116,TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency,"Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley",53,72,9,4,male,0.89,9.0,0,0,1,1
+117,Frustratingly Short Attention Spans in Neural Language Modeling,"Michał Daniluk, Tim Rocktäschel, Johannes Welbl, Sebastian Riedel",65,63,8,4,male,1,82.0,0,0,1,1
+118,Recurrent Hidden Semi-Markov Model,"Hanjun Dai, Bo Dai, Yan-Ming Zhang, Shuang Li, Le Song",54,34,4,5,None,0.0,0.0,1,0,0,1
+119,Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data,"Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt",71,89,13,4,male,1,68.0,0,0,1,1
+120,Generative Multi-Adversarial Networks,"Ishan Durugkar, Ian Gemp, Sridhar Mahadevan",43,37,3,3,male,0.96,28.0,0,0,1,1
+121,Mollifying Networks,"Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio",65,19,2,4,male,1,1.0,0,0,1,1
+122,beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework,"Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner",128,81,10,8,female,0.99,295.0,0,1,0,1
+123,"Offline bilingual word vectors, orthogonal transformations and the inverted softmax","Samuel L. Smith, David H. P. Turban, Steven Hamblin, Nils Y. Hammerla",69,83,10,4,male,1,1409.0,0,0,1,1
+124,Visualizing Deep Neural Network Decisions: Prediction Difference Analysis,"Luisa M Zintgraf, Taco S Cohen, Tameem Adel, Max Welling",56,73,8,4,female,1,732.0,0,1,0,1
+125,Categorical Reparameterization with Gumbel-Softmax,"Eric Jang, Shixiang Gu, Ben Poole",33,50,4,3,male,1,4110.0,0,0,1,1
+126,Online Bayesian Transfer Learning for Sequential Data Modeling,"Priyank Jaini, Zhitang Chen, Pablo Carbajal, Edith Law, Laura Middleton, Kayla Regan, Mike Schaekermann, George Trimponias, James Tung, Pascal Poupart",150,62,8,10,male,1,6.0,0,0,1,1
+127,Latent Sequence Decompositions,"William Chan, Yu Zhang, Quoc Le, Navdeep Jaitly",47,30,3,4,male,1,2626.0,0,0,1,1
+128,Paleo: A Performance Model for Deep Neural Networks,"Hang Qi, Evan R. Sparks, Ameet Talwalkar",40,51,8,3,female,0.62,37.0,0,1,0,1
+129,Combining policy gradient and Q-learning,"Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih",65,40,5,4,male,1,517.0,0,0,1,1
+130,Density estimation using Real NVP,"Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio",48,33,5,3,male,0.99,571.0,0,0,1,1
+131,Recurrent Batch Normalization,"Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville",78,29,3,5,male,0.99,2949.0,0,0,1,1
+132,SGDR: Stochastic Gradient Descent with Warm Restarts,"Ilya Loshchilov, Frank Hutter",29,52,7,2,male,0.98,42.0,0,0,1,1
+133,Learning a Natural Language Interface with Neural Programmer,"Arvind Neelakantan, Quoc V. Le, Martin Abadi, Andrew McCallum, Dario Amodei",75,60,8,5,male,1,73.0,0,0,1,1
+134,Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU,"Mohammad Babaeizadeh, Iuri Frosio, Stephen Tyree, Jason Clemons, Jan Kautz",74,75,9,5,male,1,919.0,0,0,1,1
+135,Learning to Navigate in Complex Environments,"Piotr Mirowski, Razvan Pascanu, Fabio Viola, Hubert Soyer, Andy Ballard, Andrea Banino, Misha Denil, Ross Goroshin, Laurent Sifre, Koray Kavukcuoglu, Dharshan Kumaran,Raia Hadsell",179,44,6,12,male,1,176.0,0,0,1,1
+136,DeepCoder: Learning to Write Programs,"Matej Balog, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, Daniel Tarlow",84,37,5,5,male,1,59.0,0,0,1,1
+137,Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks,"Stefan Depeweg, José Miguel Hernández-Lobato, Finale Doshi-Velez, Steffen Udluft",80,88,12,4,male,1,917.0,0,0,1,1
+138,Variable Computation in Recurrent Neural Networks,"Yacine Jernite, Edouard Grave, Armand Joulin, Tomas Mikolov",59,49,6,4,male,0.98,54.0,0,0,1,1
+139,Deep Variational Information Bottleneck,"Alexander A. Alemi, Ian Fischer, Joshua V. Dillon, Kevin Murphy",63,39,4,4,male,1,1645.0,0,0,1,1
+140,The Neural Noisy Channel,"Lei Yu, Phil Blunsom, Chris Dyer, Edward Grefenstette, Tomas Kocisky",68,24,4,5,female,0.56,54.0,0,1,0,1
+141,Automatic Rule Extraction from Long Short Term Memory Networks,"W. James Murdoch, Arthur Szlam",30,62,9,2,None,0.0,0.0,1,0,0,1
+142,Dialogue Learning With Human-in-the-Loop,"Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston",79,40,4,5,None,0.0,0.0,1,0,0,1
+143,Adversarially Learned Inference,"Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville",112,31,3,7,male,1,1424.0,0,0,1,1
+144,Learning through Dialogue Interactions by Asking Questions,"Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston",79,58,7,5,None,0.0,0.0,1,0,0,1
+145,Deep Information Propagation,"Samuel S. Schoenholz, Justin Gilmer, Surya Ganguli, Jascha Sohl-Dickstein",73,28,3,4,male,1,1409.0,0,0,1,1
+146,FractalNet: Ultra-Deep Neural Networks without Residuals,"Gustav Larsson, Michael Maire, Gregory Shakhnarovich",52,56,6,3,male,0.78,98.0,0,0,1,1
+147,Revisiting Classifier Two-Sample Tests,"David Lopez-Paz, Maxime Oquab",29,38,4,2,male,1,12593.0,0,0,1,1
+148,Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning,"Sahil Sharma, Aravind S. Lakshminarayanan, Balaraman Ravindran",62,82,11,3,male,1,62.0,0,0,1,1
+149,Loss-aware Binarization of Deep Networks,"Lu Hou, Quanming Yao, James T. Kwok",35,40,5,3,female,0.79,249.0,0,1,0,1
+150,Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening,"Frank S.He, Yang Liu, Alexander G. Schwing, Jian Peng",53,86,13,4,male,1,1565.0,0,0,1,1
+151,Energy-based Generative Adversarial Networks,"Junbo Zhao, Michael Mathieu, Yann LeCun",39,44,4,3,None,0.0,0.0,1,0,0,1
+152,Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning,"Werner Zellinger, Thomas Grubinger, Edwin Lughofer, Thomas Natschläger, Susanne Saminger-Platz",94,77,8,5,male,1,80.0,0,0,1,1
+153,Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights,"Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, Yurong Chen",54,82,9,5,None,0.0,0.0,1,0,0,1
+154,Entropy-SGD: Biasing Gradient Descent Into Wide Valleys,"Pratik Chaudhari, Anna Choromanska, Stefano Soatto, Yann LeCun, Carlo Baldassi, Christian Borgs, Jennifer Chayes, Levent Sagun, Riccardo Zecchina",145,55,7,9,male,1,60.0,0,0,1,1
+155,Deep Multi-task Representation Learning: A Tensor Factorisation Approach,"Yongxin Yang, Timothy M. Hospedales",35,72,8,2,None,0.0,0.0,1,0,0,1
+156,Sample Efficient Actor-Critic with Experience Replay,"Ziyu Wang, Victor Bapst, Nicolas Heess, Volodymyr Mnih, Remi Munos, Koray Kavukcuoglu, Nando de Freitas",103,52,6,7,None,0.0,0.0,1,0,0,1
+157,Temporal Ensembling for Semi-Supervised Learning,"Samuli Laine, Timo Aila",23,48,5,2,male,1,30.0,0,0,1,1
+158,On Detecting Adversarial Perturbations,"Jan Hendrik Metzen, Tim Genewein, Volker Fischer, Bastian Bischoff",66,38,4,4,male,0.6,1663.0,0,0,1,1
+159,Training deep neural-networks using a noise adaptation layer,"Jacob Goldberger, Ehud Ben-Reuven",33,60,8,2,male,1,1309.0,0,0,1,1
+160,Learning to Compose Words into Sentences with Reinforcement Learning,"Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling",71,68,9,5,female,0.61,833.0,0,1,0,1
+161,Delving into Transferable Adversarial Examples and Black-box Attacks,"Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song",45,68,8,4,None,0.0,0.0,1,0,0,1
+162,Identity Matters in Deep Learning,"Moritz Hardt, Tengyu Ma",23,33,5,2,male,1,35.0,0,0,1,1
+163,Adversarial Feature Learning,"Jeff Donahue, Philipp Krähenbühl, Trevor Darrell",48,28,3,3,male,1,2925.0,0,0,1,1
+164,Towards the Limit of Network Quantization,"Yoojin Choi, Mostafa El-Khamy, Jungwon Lee",42,41,6,3,female,1,4.0,0,1,0,1
+165,Faster CNNs with Direct Sparse Convolutions and Guided Pruning,"Jongsoo Park, Sheng Li, Wei Wen, Ping Tak Peter Tang, Hai Li, Yiran Chen, Pradeep Dubey",87,62,9,7,None,0.0,0.0,1,0,0,1
+166,Stick-Breaking Variational Autoencoders,"Eric Nalisnick, Padhraic Smyth",30,39,3,2,male,1,4110.0,0,0,1,1
+167,Batch Policy Gradient Methods for Improving Neural Conversation Models,"Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter",81,70,9,5,None,0.0,0.0,1,0,0,1
+168,Support Regularized Sparse Coding and Its Fast Encoder,"Yingzhen Yang, Jiahui Yu, Pushmeet Kohli, Jianchao Yang, Thomas S. Huang",72,54,8,5,None,0.0,0.0,1,0,0,1
+169,Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling,"Hakan Inan, Khashayar Khosravi, Richard Socher",46,79,12,3,male,0.99,876.0,0,0,1,1
+170,Towards Deep Interpretability (MUS-ROVER II): Learning Hierarchical Representations of Tonal Music,"Haizi Yu, Lav R. Varshney",25,98,11,2,None,0.0,0.0,1,0,0,1
+171,Discrete Variational Autoencoders,Jason Tyler Rolfe,17,33,3,1,male,1,4927.0,0,0,1,1
+172,Do Deep Convolutional Nets Really Need to be Deep and Convolutional?,"Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, Rich Caruana",154,68,11,9,male,1,64.0,0,0,1,1
+173,Geometry of Polysemy,"Jiaqi Mu, Suma Bhat, Pramod Viswanath",37,20,3,3,female,1,1.0,0,1,0,1
+174,Learning Invariant Representations Of Planar Curves,"Gautam Pai, Aaron Wetzler, Ron Kimmel",37,51,6,3,male,1,70.0,0,0,1,1
+175,Reasoning with Memory Augmented Neural Networks for Language Comprehension,"Tsendsuren Munkhdalai, Hong Yu",30,74,9,2,None,0.0,0.0,1,0,0,1
+176,Learning Recurrent Representations for Hierarchical Behavior Modeling,"Eyrun Eyjolfsdottir, Kristin Branson, Yisong Yue, Pietro Perona",63,69,7,4,None,0.0,0.0,1,0,0,1
+177,Adversarial Machine Learning at Scale,"Alexey Kurakin, Ian J. Goodfellow, Samy Bengio",46,37,5,3,male,1,45.0,0,0,1,1
+178,Predicting Medications from Diagnostic Codes with Recurrent Neural Networks,"Jacek M. Bajor, Thomas A. Lasko",31,75,9,2,male,0.99,97.0,0,0,1,1
+179,Recurrent Mixture Density Network for Spatiotemporal Visual Attention,"Loris Bazzani, Hugo Larochelle, Lorenzo Torresani",49,69,8,3,male,1,37.0,0,0,1,1
+180,Inductive Bias of Deep Convolutional Networks through Pooling Geometry,"Nadav Cohen, Amnon Shashua",26,70,9,2,male,1,29.0,0,0,1,1
+181,Efficient Representation of Low-Dimensional Manifolds using Deep Networks,"Ronen Basri, David W. Jacobs",28,73,8,2,male,1,30.0,0,0,1,1
+182,Semi-Supervised Classification with Graph Convolutional Networks,"Thomas N. Kipf, Max Welling",27,64,6,2,male,1,3753.0,0,0,1,1
+183,Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks,"Arash Ardakani, Carlo Condo, Warren J. Gross",44,97,11,3,male,1,57.0,0,0,1,1
+184,Adversarial Training Methods for Semi-Supervised Text Classification,"Takeru Miyato, Andrew M. Dai, Ian Goodfellow",44,68,7,3,male,1,1.0,0,0,1,1
+185,Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks,"Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg",68,77,9,5,male,0.91,58.0,0,0,1,1
+186,Pointer Sentinel Mixture Models,"Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher",61,31,4,4,male,1,2608.0,0,0,1,1
+187,An Actor-Critic Algorithm for Sequence Prediction,"Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio",117,49,6,8,None,0.0,0.0,1,0,0,1
+188,Understanding Trainable Sparse Coding with Matrix Factorization,"Thomas Moreau, Joan Bruna",25,63,7,2,male,1,3753.0,0,0,1,1
+189,Tighter bounds lead to improved classifiers,Nicolas Le Roux,15,43,6,1,male,1,1953.0,0,0,1,1
+190,HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving,"Cezary Kaliszyk, François Chollet, Christian Szegedy",52,74,10,3,male,1,5.0,0,0,1,1
+191,Why Deep Neural Networks for Function Approximation?,"Shiyu Liang, R. Srikant",23,52,7,2,None,0.0,0.0,1,0,0,1
+192,Hierarchical Multiscale Recurrent Neural Networks,"Junyoung Chung, Sungjin Ahn, Yoshua Bengio",42,49,5,3,None,0.0,0.0,1,0,0,1
+193,Neural Photo Editing with Introspective Adversarial Networks,"Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston",53,60,7,4,male,1,5168.0,0,0,1,1
+194,Dropout with Expectation-linear Regularization,"Xuezhe Ma, Yingkai Gao, Zhiting Hu, Yaoliang Yu, Yuntian Deng, Eduard Hovy",74,46,4,6,None,0.0,0.0,1,0,0,1
+195,HyperNetworks,"David Ha, Andrew M. Dai, Quoc V. Le",35,13,1,3,male,1,12593.0,0,0,1,1
+196,A Learned Representation For Artistic Style,"Vincent Dumoulin, Jonathon Shlens, Manjunath Kudlur",51,43,6,3,male,1,1424.0,0,0,1,1
+197,Hadamard Product for Low-rank Bilinear Pooling,"Jin-Hwa Kim, Kyoung-Woon On, Woosang Lim, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang",85,46,6,6,None,0.0,0.0,1,0,0,1
