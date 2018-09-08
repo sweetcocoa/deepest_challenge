@@ -22,8 +22,8 @@ Images/test/각 클래스명/~~.jpg
 
 ## To Reproduce ##
 
-- (Best Accuracy Model Download)[]
-- (Best Score Model Download)[]
+- (Best Accuracy Model Download)[https://drive.google.com/open?id=1v16114PHte-VqZ1_eVFse5Skvw-cYjcb]
+- (Best Score Model Download)[https://drive.google.com/open?id=1TDwxm5faXV0EtuotAzlffaQQ2Q05Moaw]
 
 ```commandline
 python main.py
