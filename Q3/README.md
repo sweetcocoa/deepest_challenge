@@ -1,9 +1,11 @@
-# 자사제품홍보 #
-- ![원본img]()
-- ![img1]()
-- ![img2]()
+# 힌튼도 안경 씌울 수 있는 rounz.com #
+- Facial Landmark + Face Detection + 3D Rendering....
 
-<iframe width="640" height="360" src="https://rounz.com/mov/mov_introduce.mp4"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+- ![img](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q3/img/original.jpg)
+- ![img1](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q3/img/glasses.gif)
+- ![img2](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q3/img/sunglasses.gif)
+
+- App 소개 : https://rounz.com/introduce_app.php
+
  
  
