@@ -17,7 +17,9 @@
 ![각 값 관계성 plotting](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q2/img/corr.jpg)
 
 ### ** Summary 참조 ** ###  
-- 될거라고 생각했지만 안 됨
+- 성별을 참조하면 될 거라고 생각했지만 안 됨
+- 그보다 Accept된 논문이 평균적으로 논문제목의 길이가 짧고 저자가 많다.
+- 근데 다 Reject때리는게 제일 잘됨 (논문제목길이, 저자수 모두 Correlation 0.1)
 - 아무튼 안 됨
 - 국적까지 보면 될 수도 있을 것 같다는 생각이 들지만.. 누가 했겠죠?
 
