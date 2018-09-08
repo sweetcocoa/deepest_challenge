@@ -14,7 +14,7 @@
 3. 이름갖고 성별을 구해주는 API가 존재함(코드참고)
 
 ## 결과 ##
-![각 값 관계성 plotting]("https://github.com/sweetcocoa/deepest_challenge/Q2/img/corr.jpg")
+![각 값 관계성 plotting](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q2/img/corr.jpg)
 
 ### ** Summary 참조 ** ###  
 - 될거라고 생각했지만 안 됨
