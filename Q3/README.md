@@ -1,4 +1,7 @@
 # 힌튼도 안경 씌울 수 있는 rounz.com #
+
+> 자사 제품 홍보처럼 느껴진다면 기분탓입니다.. 
+
 - Facial Landmark + Face Detection + 3D Rendering....
 
 - ![img](https://github.com/sweetcocoa/deepest_challenge/raw/master/Q3/img/original.jpg)
