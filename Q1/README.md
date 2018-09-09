@@ -61,6 +61,8 @@ def get_n_params(model):
 
 ## Best Top1 Accuracy : 63.307 ##
 - Precision @ Top1 test : 63.307
+- Precision @ Top5 test : 87.763
 - "#' of Params : 11689512 ~ 1e7
+- ** score : 12.92 **
  
 
